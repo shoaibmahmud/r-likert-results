@@ -1,5 +1,5 @@
 Group,Code,Question,strongly disagree,disagree,neither,agree,strongly agree,total
-Developer,U2,I'm interested in the usability of my API,1,0,2,15,28,46
+Developer,U2,I'm interested in the usability of my API,1,0,2,35,28,46
 Developer,U2,I'm interested in which API methods are called,1,5,2,19,19,46
 Developer,U1,I'm interested if people migrate to the latest version of my library,1,1,13,17,14,46
 Developer,U2,I'm interested unused methods and functionalities,1,3,14,16,12,46
